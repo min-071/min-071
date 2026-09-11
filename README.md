@@ -76,3 +76,22 @@ Real-time chat and collaboration platform with authentication, rooms and live me
     <img src="https://img.shields.io/badge/LinkedIn-Kavya%20Rajan-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/min-071/min-071/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/min-071/min-071/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution snake"
+      src="https://raw.githubusercontent.com/min-071/min-071/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
