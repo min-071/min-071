@@ -1,25 +1,45 @@
-# Hi, I'm Kavya 👋
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│                   KAVYA RAJAN                        │
+│                                                      │
+│   Full Stack Developer • .NET • Backend • AI         │
+│         < animated typing text here />               │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
 
-### Full Stack Developer | .NET & Backend Engineer
+                 👩‍💻 ABOUT ME
 
-I'm a software developer with 3+ years of experience building
-full-stack applications and backend services.
+    Building scalable systems, APIs & AI-powered apps.
+    Based in Canada 🇨🇦
 
-## 💻 Tech Stack
 
-- C# / .NET / ASP.NET Core
-- Angular / React / TypeScript
-- SQL Server / PostgreSQL
-- Docker / Kubernetes
-- Azure / AWS
-- REST APIs / Microservices
-- OpenAI / AI Integration
+                 ⚡ TECH ARSENAL
 
-## 🚀 Currently Working On
+   [ C# ] [.NET] [React] [Angular] [TypeScript]
+   [Azure] [Docker] [PostgreSQL] [Redis] [AWS]
+              [OpenAI] [Kubernetes]
 
-Building production-ready full-stack applications and exploring
-AI-powered software development.
 
-## 📫 Connect With Me
+              🚀 FEATURED BUILDS
 
-- LinkedIn: [https://www.linkedin.com/in/kavya20raj/]
+      ┌────────────────┐ ┌────────────────┐
+      │ AI Developer   │ │ OtakuChat      │
+      │ Platform       │ │                │
+      │ .NET • AI      │ │ React • Node   │
+      └────────────────┘ └────────────────┘
+
+
+                 📊 GITHUB STATS
+
+      ┌────────────────┐ ┌────────────────┐
+      │   GitHub       │ │ Top Languages  │
+      │   Statistics   │ │                │
+      └────────────────┘ └────────────────┘
+
+               🔥 Contribution Streak
+
+
+         🐍 animated contribution snake 🐍
+
+
+        LinkedIn     •     Portfolio     •     Email
