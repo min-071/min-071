@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavya</h1>
 
 <h3 align="center">
-Full Stack Developer | .NET & Backend Engineer
+Full Stack Software Developer | .NET & Backend Engineer
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@ Full Stack Developer | .NET & Backend Engineer
 
 ## 👩‍💻 About Me
 
-- 💻 Full Stack Developer with 3+ years of experience
+- 💻 Full Stack Software Developer with 3+ years of experience
 - ⚙️ Focused on .NET, backend systems and APIs
 - ☁️ Interested in cloud-native and scalable applications
 - 🤖 Currently building AI-powered applications
@@ -41,7 +41,6 @@ Building an AI-powered developer platform using .NET, React, PostgreSQL and LLM 
 Real-time chat and collaboration platform with authentication, rooms and live messaging.
 
 `React` `Node.js` `TypeScript` `Firebase` `Socket.IO`
-
 ---
 
 ## 🔥 GitHub Streak
@@ -51,14 +50,6 @@ Real-time chat and collaboration platform with authentication, rooms and live me
 </p>
 
 ---
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kavya20raj/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kavya%20Rajan-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
 
 ## 🐍 Contribution Snake
 
@@ -77,4 +68,14 @@ Real-time chat and collaboration platform with authentication, rooms and live me
       src="https://raw.githubusercontent.com/min-071/min-071/output/github-contribution-grid-snake.svg"
     />
   </picture>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kavya20raj/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kavya%20Rajan-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
