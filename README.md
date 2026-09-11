@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kavya</h1>
-
-<h3 align="center">
-Full Stack Software Developer | .NET & Backend Engineer
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Kavya%20Rajan&fontAlign=50&fontAlignY=40&color=0:7F00FF,100:00C6FF&fontColor=ffffff&fontSize=46&desc=Full%20Stack%20Developer%20%7C%20.NET%20%7C%20Backend%20Engineer&descAlignY=62&descSize=18" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;C%23+%7C+.NET+%7C+Backend+Engineer;Building+Scalable+APIs;Exploring+AI-Powered+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+Scalable+APIs;Full+Stack+Developer;C%23+%7C+.NET+%7C+Backend+Engineer;Exploring+AI-Powered+Applications;Cloud+%7C+Microservices+%7C+Docker" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=min-071&label=Profile%20Views&color=7F00FF&style=flat-square" />
 </p>
 
 ---
@@ -19,13 +21,26 @@ Full Stack Software Developer | .NET & Backend Engineer
 - 📍 Based in Canada
 
 ---
-
 ## 🛠️ Tech Stack
 
-<p align="center">
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,nodejs,python" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,react,angular,ts,js,nodejs,python,postgres,mysql,mongodb,redis,docker,kubernetes,azure,aws,git,github" />
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css" />
+</p>
 
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,git,github" />
 </p>
 
 ---
