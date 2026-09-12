@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+Scalable+APIs;Full+Stack+Developer;C%23+%7C+.NET+%7C+Backend+Engineer;Exploring+AI-Powered+Applications;Cloud+%7C+Microservices+%7C+Docker" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=660&lines=Building+Scalable+APIs;Full+Stack+Developer;C%23+%7C+.NET+%7C+Backend+Engineer;Exploring+AI-Powered+Applications;Cloud+%7C+Microservices+%7C+Docker" />
 </p>
 
 <p align="center">
