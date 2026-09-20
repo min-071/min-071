@@ -18,7 +18,6 @@
 - ⚙️ Focused on .NET, backend systems and APIs
 - ☁️ Interested in cloud-native and scalable applications
 - 🤖 Currently building AI-powered applications
-- 📍 Based in Canada
 
 ---
 ## 🛠️ Tech Stack
